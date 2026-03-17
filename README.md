@@ -1,2 +1,2 @@
 # shaweelTimerDocumentation
-Documentation for shaweel/shaweelTimer
+Documentation https://shaweeltimer.readthedocs.io
