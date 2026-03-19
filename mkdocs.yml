@@ -31,3 +31,4 @@ nav:
       - Overview: installation/index.md
       - GNU+Linux: installation/linux.md
       - Windows: installation/windows.md
+      - Build from source: installation/build.md
