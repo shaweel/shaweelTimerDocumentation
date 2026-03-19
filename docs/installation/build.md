@@ -1,5 +1,5 @@
 # Building from source
-You can install shaweelTimer by building from source. **Do not do this on [Windows](https://windows.com)**, instead follow [Windows.md](windows.md). Only do this on [GNU](https://gnu.org/home.en.html)+[Linux](https://kernel.org).
+You can install shaweelTimer by building from source. This is only intended to be done on [GNU](https://gnu.org/home.en.html)+[Linux](https://kernel.org) distribution not in [linux.md](linux.md) or operating systems other than [Windows](https://windows.com) and [GNU](https://gnu.org/home.en.html)+[Linux](https://kernel.org).
 
 You usually don't actually build the application, you mostly just `git clone` the repository and make a .desktop file for the program.
 
