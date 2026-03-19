@@ -3,3 +3,5 @@ The installation of shaweelTimer varies based on your operating system. shaweelT
 
 [:fontawesome-brands-linux: GNU+Linux](linux.md)  
 [:fontawesome-brands-windows: Windows](windows.md)
+
+You can also [build from source](build.md)
