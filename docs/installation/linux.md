@@ -14,12 +14,13 @@ For [Fedora](https://fedoraproject.org) and its [derivatives](https://fedoraproj
 ## The Arch User Repository
 For [Arch Linux](https://archlinux.org) and its [derivatives](https://wiki.archlinux.org/title/Arch-based_distributions) you can install shaweelTimer using [The Arch User Repository](https://aur.archlinux.org).
 
-To install shaweelTimer, install the `shaweelTimer` package either with an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) like `yay` or `paru`  
-`yay -S shaweelTimer` or  `paru -S shaweelTimer`  
+To install shaweelTimer, install the `shaweeltimer` package either with an [AUR helper](https://wiki.archlinux.org/title/AUR_helpers) like `yay` or `paru`  
+`yay -S shaweeltimer` or  `paru -S shaweeltimer`  
 or manually installing the package using `git` and `makepkg`  
-`git clone https://aur.archlinux.org/shaweelTimer.git`  
-`cd shaweelTimer`  
-`makepkg -si`
+`git clone https://aur.archlinux.org/shaweeltimer.git`  
+`cd shaweeltimer`  
+`makepkg -si`  
+there's also the `shaweeltimer-dev` package which fetches from the `dev` branch instead of the `stable` branch which is very unstable
 
 ### Why not support Flatpak?
 Because [Flatpak](https://flatpak.org/) is a pain to setup and a performance hinderance.
