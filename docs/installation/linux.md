@@ -5,7 +5,6 @@ Navigation:
 [Jump to Debian](#debian)  
 [Jump to Fedora](#fedora)  
 [Jump to the AUR](#the-arch-user-repository)  
-[Jump to Flatpak](#flatpak)  
 ## Debian
 For [Debian](https://www.debian.org) and its [derivatives](https://www.debian.org/derivatives/) you can install shaweelTimer by downloading a .deb file from the [latest release](https://github.com/shaweel/shaweelTimer/releases/latest) and installing it with `sudo apt install ./shaweelTimer.deb`
 
@@ -20,11 +19,4 @@ To install shaweelTimer, install the `shaweelTimer` package either with an [AUR 
 or manually installing the package using `git` and `makepkg`  
 `git clone https://aur.archlinux.org/shaweelTimer.git`  
 `cd shaweelTimer`  
-`makepkg -si`
-
-## Flatpak
-shaweelTimer can also be installed using `flatpak` on any distribution supporting it. This is generally not recommended if your distribution already has a native way of installing shaweelTimer
-
-To install shaweelTimer via `flatpak` download a .flatpak file from the [latest release](https://github.com/shaweel/shaweelTimer/releases/latest) and install it with `flatpak install ./shaweelTimer.flatpak`
-
-I am trying to get shaweelTimer on [Flathub](https://flathub.org/) as soon as possible.
+`makepkg -si`
