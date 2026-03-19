@@ -20,3 +20,6 @@ or manually installing the package using `git` and `makepkg`
 `git clone https://aur.archlinux.org/shaweelTimer.git`  
 `cd shaweelTimer`  
 `makepkg -si`
+
+### Why not support Flatpak?
+Because [Flatpak](https://flatpak.org/) is a pain to setup and a performance hinderance.
